@@ -4,7 +4,7 @@ This repository conrains 3 tutorials that walks one through the world of Actors 
 
 The tutorials are divided into three parts for easier reading and these are in the following directories:
 
-* ractor-tutorial-chapter-1 ([README](https://github.com/nsengupta/ractor-tutorial/ractor-tutorial-chapter-1/README.md)).
+* ractor-tutorial-chapter-1 ([README](./README.chapter-1.md)).
 * ractor-tutorial-chapter-2 ([README](https://github.com/nsengupta/ractor-tutorial/ractor-tutorial-chapter-2/README.md)).
 * ractor-tutorial-chapter-3 ([README](https://github.com/nsengupta/ractor-tutorial/ractor-tutorial-chapter-3/README.md)).
 
