@@ -169,13 +169,13 @@ The three new messages added to the vocabulary are:
 
 The following sequence diagram makes it clearer:
 
-![Alt text](./ractor-tutorial-chapter-2/accompanying-content/ractor-tutorial-interaction-Inquirer-Ping-Pong-1.png)
+![Alt text](./ractor-tutorial-interaction-Inquirer-Ping-Pong-1.png)
 
 It is important to remember that the interaction is completely non-blocking. There is **no guarantee** that PongAware will receive the message **later than** when PingAware will receive the message. Ditto for Inquirer receiving the responses: the order is completely random.
 
 The diagram above doesn't capture the whole set of interactions between the Actors. The Ping | Pong Actors also exchange Ping <--> Pong messages between themselves (and the Inquirer knows nothing about that).
 
-![Alt text](./ractor-tutorial-chapter-2/accompanying-content/ractor-tutorial-Inquiry-PingPong-conversation-2.png)
+![Alt text](./ractor-tutorial-Inquiry-PingPong-conversation-2.png)
 
 Again, the order of arrival is unknown, in all cases.
 
