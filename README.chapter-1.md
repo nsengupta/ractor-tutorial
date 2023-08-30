@@ -568,7 +568,7 @@ Both the Actors stop themselves, when conditions specific to them, are met. The 
 
 The code is in the `./src` directory:
 
-![Alt text](./README.chapter-2.png "Tutorial-1 structure at a
+![Alt text](./project-structure-chapter-1.png "Tutorial-1 structure at a
 glance")
 
 -------------------------------------
@@ -590,6 +590,6 @@ We have seen
 * How to let two Actors communicate with one another using the vocabulary stipulated
 * How to bring the live Actors to an end, gracefully.
 
-This is very simple set up, and this paves the way for the next tutorial ([here](./ractor-tutorial-chapter-2/README.chapter-2.md)).
+This is very simple set up, and this paves the way for the next tutorial ([here](./README.chapter-2.md)).
 
 ------------------------------------------------------------------------------
