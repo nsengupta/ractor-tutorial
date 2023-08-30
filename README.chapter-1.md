@@ -1,19 +1,17 @@
 # rust-ractor-tutorial-1
-Part of a tutorial that aims to elaborate Actor-based programming using 'ractor' ( Rust library ) 
+Part 1 of a tutorial that aims to elaborate Actor-based programming using 
+'ractor' ( Rust library ) 
 
-This is a turotial on `ractor`, an Actor create that helps building Actor-based application using **#rustlang**. 
-
-This is the first of the tuorial series. The second is [here](https://github.com/nsengupta/rust-ractor-tutorial-2).
-
-All the code is in './src'.
+All the code is in './ractor-tutorial-chapter-1/src'. In order to run the 
+code, move to the aforementioned directory ( `ractor-tutorial-chapter-1` ) 
+and do a `cargo run`.
 
 Code structure:
 
-![](./accompanying-contents/code-structre.png)
-
+![Alt text](./project-structure-chapter-1.png "Tutorial-1 structure at a 
+glance")
 
 ## Tutorial
-
 
 ### Prelude
 
@@ -568,11 +566,10 @@ Error in CanRecognizePong while sending Ping message SendErr
 
 Both the Actors stop themselves, when conditions specific to them, are met. The program then terminates as expected.
 
-The code is structured this way:
+The code is in the `./src` directory:
 
-![](code-structre.png)
-
-The final code is here.
+![Alt text](./project-structure-chapter-1.png "Tutorial-1 structure at a
+glance")
 
 -------------------------------------
 
@@ -593,6 +590,6 @@ We have seen
 * How to let two Actors communicate with one another using the vocabulary stipulated
 * How to bring the live Actors to an end, gracefully.
 
-This is very simple set up, and this paves the way for the next tutorial ([here](https://github.com/nsengupta/rust-ractor-tutorial-2)).
+This is very simple set up, and this paves the way for the next tutorial ([here](./ractor-tutorial-chapter-2/README.chapter-2.md)).
 
 ------------------------------------------------------------------------------
