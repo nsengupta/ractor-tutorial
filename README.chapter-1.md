@@ -568,7 +568,7 @@ Both the Actors stop themselves, when conditions specific to them, are met. The 
 
 The code is in the `./src` directory:
 
-![Alt text](./project-structure-chapter-1.png "Tutorial-1 structure at a
+![Alt text](./README.chapter-2.png "Tutorial-1 structure at a
 glance")
 
 -------------------------------------
