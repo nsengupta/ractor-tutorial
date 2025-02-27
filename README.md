@@ -2,7 +2,7 @@
 
 In the past, I have had the opportunity to learn and apply Actor-based design (using [#akka](https://www.linkedin.com/feed/hashtag/?keywords=akka&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7092388425978277888) ) in about 3 production software. I loved the way I could model the behaviour using Actors (and [#fsm](https://www.linkedin.com/feed/hashtag/?keywords=fsm&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7092388425978277888)) using [#scala](https://www.linkedin.com/feed/hashtag/?keywords=scala&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7092388425978277888) and [#java](https://www.linkedin.com/feed/hashtag/?keywords=java&highlightedUpdateUrns=urn%3Ali%3Aactivity%3A7092388425978277888).  
 
-As a Rust enthusiast, I was searching for Actor-based libraries and 
+As a Rust (#rustlang) enthusiast, I was searching for Actor-based libraries and 
 chanced upon **ractor** ([github](https://github.com/slawlor/ractor))  , which mirrored the behavior of Erlang's. 
 
 I have captured my understanding during and after the exploration of 
